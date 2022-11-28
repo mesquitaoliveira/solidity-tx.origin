@@ -10,7 +10,7 @@ Essa é uma falha de segurança que envolve uma variável **global do solidity**
 
 ### Variáveis de estado(State variables)
 
-São variáveis ​​cujos valores são armazenados permanentemente em um contrato.
+São variáveis cujos valores são armazenados permanentemente em um contrato.
 
 ```javascript
 // SPDX-License-Identifier: MIT (web3dev)
@@ -39,7 +39,7 @@ Em outras palavras a variável foi **gravada** no contrato e pode ser acessada t
 
 ### Variáveis locais(Local variables)
 
-Variáveis ​​cujos valores são usados apenas dentro do bloco de código da função. Os parâmetros são sempre locais para a função.
+Variáveis cujos valores são usados apenas dentro do bloco de código da função. Os parâmetros são sempre locais para a função.
 
 ```javascript
 
