@@ -1,5 +1,14 @@
 # Vulnerabilidade Em Um Smart Contract |`tx.origin`
 
+---
+
+<p align="center">
+  <img src="/assets/image-doc.png"
+    alt="screenshot" width="100%">
+</p>
+
+---
+
 ## Introdução
 
 Essa é uma falha de segurança que envolve uma variável **global do solidity**. Para uma melhor explanação dessa vulnerabilidade começaremos com uma descrição básica sobre os tipos de vaiáveis que a linguagem **solidity** suporta. Essas variáveis são as seguintes:
