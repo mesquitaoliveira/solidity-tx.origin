@@ -124,7 +124,10 @@ Explicando cada uma:
 
 ### Quando é que começaremos a hackear? 😂
 
-![Alt text](/assets/funny_meme.png)
+<p align="center">
+  <img src="/assets/funny_meme.png"
+    alt="screenshot" width="50%">
+</p>
 
 Acredito que a introdução base para entender o nosso caso de estudo já foram fornecidas anteriormente então vamos lá.
 
@@ -170,6 +173,7 @@ A função `transfer` ela pode ser executada apenas pela **Alice**, que para ser
 
 Já a função `getBalance` quando for executada nos retorna o **saldo** associado ao contrato inteligente em **wei**.
 Exemplo:
+
 ![Alt text](/assets/getbalance.png)
 
 Nesse caso o contrato possui um total de 10 ETH= $1\times10^{19}wei$
